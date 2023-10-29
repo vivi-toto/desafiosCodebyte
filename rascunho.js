@@ -1,0 +1,1 @@
+const myString = "MrtyNNgMM";
